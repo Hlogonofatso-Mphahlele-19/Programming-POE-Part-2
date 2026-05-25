@@ -11,7 +11,7 @@ public class QuickChat {
         
         System.out.println("Welcome to QuickChat");
         
-        System.out.print("How many ,essages would u like to send?");
+        System.out.print("How many messages would u like to send?: ");
         int numOfMessages = kb.nextInt();
         kb.nextLine();
         
