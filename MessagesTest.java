@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author hlogo
+ * @author Hlogonofatso Mphahlele
  */
 public class MessagesTest {
     
